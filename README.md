@@ -19,7 +19,6 @@ We recommand a virtual environment such as Anaconda for running this code.
 
 ### Preparing data
 ```.bash
-cd code
 python prepare_data.py /path/to/img_dir
 ```
 ### RRDB pretrained weights
