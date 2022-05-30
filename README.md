@@ -6,3 +6,5 @@ This repository is heavily based on [SRFlow](https://github.com/andreas128/SRFlo
 <p align="center">
 	<img src="figs/fig1.png" alt="photo not available" width="90%" height="90%">
 </p>
+
+## Setup
