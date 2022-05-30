@@ -3,8 +3,6 @@ Official PyTorch implementation of "FS-NCSR: Increasing Diversity of the Super-R
 
 This repository is heavily based on [SRFlow](https://github.com/andreas128/SRFlow) and [NCSR](https://github.com/younggeun-kim/NCSR)
 
-<object data="https://github.com/dsshim0125/fs-ncsr/blob/main/figure.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/dsshim0125/fs-ncsr/blob/main/figure.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/dsshim0125/fs-ncsr/blob/main/figure.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<p align="center">
+	<img src="figs/fig1.png" alt="photo not available" width="80%" height="80%">
+</p>
