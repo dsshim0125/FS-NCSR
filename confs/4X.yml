@@ -55,7 +55,7 @@ datasets:
     n_max: 20
 
 #### Test Settings
-model_path: /home/fs-ncsr/experiments/train_freq/models/160000_G.pth
+model_path: ./experiments/train_4x/models/160000_G.pth
 
 #### network structures
 network_G:
@@ -85,9 +85,9 @@ network_G:
 
 #### path
 path:
-  pretrain_model_G: /home/fs-ncsr/ntire/experiments/train_freq/models/160000_G.pth
-  strict_load: False #true
-  resume_state:  #auto
+  pretrain_model_G: ./pretrained_model/RRDB_DF2K_4X.pth
+  strict_load: true
+  resume_state: auto
 
 #### training settings: learning rate scheme, loss
 train:
