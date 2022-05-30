@@ -42,3 +42,10 @@ python eval.py --scale scale_factor --lrtest_path path/to/LRpath --conf_path pat
 ```
 * To eval with pretrained model, please check model_path in Confpath. 
 * Pretriained models should be in code/pretrained_model
+
+## Results
+
+<p align="center">
+	<img src="figs/fig2.png" alt="photo not available" width="90%" height="90%">
+	<img src="figs/fig3.png" alt="photo not available" width="90%" height="90%">
+</p>
