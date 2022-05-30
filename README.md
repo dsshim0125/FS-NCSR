@@ -28,3 +28,20 @@ Download pretrained weights of RRDB and place them into 'pretrained_weights' fol
 [RRDB_DF2K_8X.pth](https://drive.google.com/file/d/1nyggiyxTZLAEOAjV6_x8UEmdoMdI5ulp/view?usp=sharing)
 
 These pretrained weights are originally from [SRFlow](https://github.com/andreas128/SRFlow)
+
+## Training
+
+```.bash
+cd code
+python train.py -opt path/to/Confpath
+```
+* path/to/Confpath is model parameter script which is in code/confs/~.yml
+
+## Test
+
+```.bash
+cd code
+python eval.py --scale scale_factor --lrtest_path path/to/LRpath --conf_path path/to/Confpath
+```
+* To eval with pretrained model, please check model_path in Confpath. 
+* Pretriained models should be in code/pretrained_model
