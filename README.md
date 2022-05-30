@@ -18,7 +18,7 @@ python prepare_data.py /path/to/img_dir
 ### RRDB pretrained weights
 Download pretrained weights of RRDB and move them in 'pretrained_weights' folder
 
-[RRDB_DF2K_4X.pth](https://drive.google.com/file/d/1597Gblp_lsPEsyBuD8YrqelSMFbauObS/view?usp=sharing)
+[RRDB_DF2K_4X.pth](https://drive.google.com/file/d/1597Gblp_lsPEsyBuD8YrqelSMFbauObS/view?usp=sharing)\
 [RRDB_DF2K_8X.pth](https://drive.google.com/file/d/1nyggiyxTZLAEOAjV6_x8UEmdoMdI5ulp/view?usp=sharing)
 
 These pretrained weights are originally from [SRFlow](https://github.com/andreas128/SRFlow)
