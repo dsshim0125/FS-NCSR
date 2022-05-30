@@ -4,5 +4,5 @@ Official PyTorch implementation of "FS-NCSR: Increasing Diversity of the Super-R
 This repository is heavily based on [SRFlow](https://github.com/andreas128/SRFlow) and [NCSR](https://github.com/younggeun-kim/NCSR)
 
 <p align="center">
-	<img src="figs/fig1.png" alt="photo not available" width="100%" height="100%">
+	<img src="figs/fig1.png" alt="photo not available" width="90%" height="90%">
 </p>
