@@ -10,6 +10,13 @@ This repository is heavily based on [SRFlow](https://github.com/andreas128/SRFlo
 </p>
 
 ## Setup
+### Environment
+```.bash
+cd code
+python pip install -r requirements.txt
+```
+We recommand a virtual environment such as Anaconda for running this code.
+
 ### Preparing data
 ```.bash
 cd code
