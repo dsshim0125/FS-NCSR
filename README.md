@@ -12,7 +12,6 @@ This repository is heavily based on [SRFlow](https://github.com/andreas128/SRFlo
 ## Setup
 ### Environment
 ```.bash
-cd code
 python pip install -r requirements.txt
 ```
 We recommand a virtual environment such as Anaconda for running this code.
@@ -32,7 +31,6 @@ These pretrained weights are originally from [SRFlow](https://github.com/andreas
 ## Training
 
 ```.bash
-cd code
 python train.py -opt path/to/Confpath
 ```
 * path/to/Confpath is model parameter script which is in code/confs/~.yml
@@ -40,7 +38,6 @@ python train.py -opt path/to/Confpath
 ## Test
 
 ```.bash
-cd code
 python eval.py --scale scale_factor --lrtest_path path/to/LRpath --conf_path path/to/Confpath
 ```
 * To eval with pretrained model, please check model_path in Confpath. 
