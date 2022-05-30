@@ -57,7 +57,7 @@ datasets:
     n_max: 20
 
 #### Test Settings
-model_path:  /home/fs-ncsr/experiments/train_freq/models/230000_G.pth
+model_path:  ./experiments/train_4x/models/230000_G.pth
 #### network structures
 network_G:
   which_model_G: NCSRNet
@@ -86,7 +86,7 @@ network_G:
 
 #### path
 path:
-  pretrain_model_G: /media/deepest/pretrained_weights/pretrained_models/RRDB_DF2K_8X.pth
+  pretrain_model_G: ./pretrained_weights/pretrained_models/RRDB_DF2K_8X.pth
   strict_load: true
   resume_state: auto
 
