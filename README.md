@@ -1,5 +1,5 @@
 # FS-NCSR
-Official PyTorch implementation of "FS-NCSR: Increasing Diversity of the Super-Resolution Space via Frequency Separation and Noise-Conditioned Normalizing Flow"  [[paper](https://arxiv.org/abs/2204.09679)]
+Official PyTorch implementation of "FS-NCSR: Increasing Diversity of the Super-Resolution Space via Frequency Separation and Noise-Conditioned Normalizing Flow"  [[paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Song_FS-NCSR_Increasing_Diversity_of_the_Super-Resolution_Space_via_Frequency_Separation_CVPRW_2022_paper.html)]
 
 CVPRW 2022, Runner-up at NTIRE 2022 Learning the Super Resolution Space Challenge
 
